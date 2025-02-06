@@ -162,6 +162,9 @@ img {
      max-width: 100%;
      height: auto;
 }
+.rounded-image {
+     border-radius: 15px; /* Adjust the value as needed */
+ }
 
  :focus {
      outline: 0;
